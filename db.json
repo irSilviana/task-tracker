@@ -13,9 +13,9 @@
       "reminder": true
     },
     {
-      "text": "Shopping",
-      "day": "Monday",
-      "reminder": true,
+      "text": "SHopping",
+      "day": "Today",
+      "reminder": false,
       "id": 3
     }
   ]
